@@ -1,0 +1,1 @@
+This project will demonstrate the creation of a recipe website. This will be very basic, please do not expect anything groundbreaking!
